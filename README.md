@@ -1,6 +1,7 @@
 \# BRIDGE
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23185307.svg)](https://doi.org/10.5281/zenodo.23185307)
+[![PyPI version](https://img.shields.io/pypi/v/bridge-mixed-data-distance.svg)](https://pypi.org/project/bridge-mixed-data-distance/)
 
 \*\*Bayesian Redundancy-Aware Information Distance with Graph Ensembles for Mixed-Type Data\*\*
 
@@ -232,7 +233,7 @@ CITATION.cff
 
 
 
-A permanent Zenodo DOI will be added after the first public GitHub release is archived.
+Zenodo DOI: https://doi.org/10.5281/zenodo.23185307
 
 
 

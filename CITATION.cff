@@ -3,7 +3,9 @@ message: "If you use BRIDGE in your research, please cite this software."
 title: "BRIDGE: Bayesian Redundancy-Aware Information Distance with Graph Ensembles for Mixed-Type Data"
 type: software
 version: 1.0.0
-
+doi: "10.5281/zenodo.23185307"
+repository-code: "https://github.com/dgaliatsatos2010/BRIDGE-mixed-data-distance"
+url: "https://pypi.org/project/bridge-mixed-data-distance/"
 authors:
   - family-names: "Galiatsatos"
     given-names: "Dimitrios"
